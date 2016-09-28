@@ -1,0 +1,22 @@
+{
+  "name": "twitter-bootstrap-wizard",
+  "version": "1.0.0",
+  "description": "Twitter Bootstrap Wizard ============================",
+  "main": "jquery.bootstrap.wizard.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duanefields/twitter-bootstrap-wizard.git"
+  },
+  "author": "Duane Fields <duane@duanefields.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duanefields/twitter-bootstrap-wizard/issues"
+  },
+  "homepage": "https://github.com/duanefields/twitter-bootstrap-wizard#readme"
+}
